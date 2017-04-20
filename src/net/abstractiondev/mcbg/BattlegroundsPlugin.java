@@ -1,7 +1,7 @@
 package net.abstractiondev.mcbg;
 
 /*
- * Battlegrounds Plugin 
+ * Battlegrounds Plugin  
  */
 
 public class BattlegroundsPlugin
